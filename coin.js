@@ -1,0 +1,22 @@
+const $1 = 1;
+const $2 = 2;
+const $5 = 5;
+const $10 = 10;
+const $20 = 20;
+const $50 = 50;
+const $100 = 100;
+const $8 = .01;
+const 5cent = .05;
+const 10cent = .10;
+const 25cent = .25;
+const 50cent = .50;
+const $1coin = 1.00;
+
+console.log(num1 + num12);
+console.log(num2 + num11);
+console.log(num3 + num10);
+console.log(num4 + num9);
+console.log(num5 + num8);
+console.log(num6 + num7);
+console.log(num9 + num13);
+console.log(num10 + num12);
